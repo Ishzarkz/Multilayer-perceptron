@@ -1,5 +1,4 @@
 # Multilayer-perceptron
-
-Python 3.6
-Numpy
-Base de datos MNIST
+# Python 3.6
+# Numpy
+# Base de datos MNIST
